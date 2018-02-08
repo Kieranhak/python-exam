@@ -1,1 +1,31 @@
-# python-exam
+ import sleep;
+def say_hello(whoever is looking at this):
+    print("hello, + whoever is looking at this + "happy your here")
+print("this is my mock exam hope u enjoy ")
+("this code will pick a song for u after you say what mood your in")
+sleep(1)
+choice=input("what mood are u in?")
+if choice==("sad")
+    sleep(2)
+    print("listen to had a bad day by danile powter")
+    sleep(2)  
+if choice==("happy")
+   sleep(2)
+   print("listen to happy by bruno mars")
+   sleep(2)
+if choice==("emotional")
+   sleep(2)
+   print("everyone hurts by R.E.M")
+   sleep(2)
+if choice==("brave")
+   sleep(2)(
+   print("i will survive by gloria gaynor")
+   sleep(2)
+if choice==("modivated")
+   sleep(2)
+   print("the final count dowm by europe")
+   sleep(2)
+elif choice==("sporty")
+   sleep(2)
+   print("gonna fly now by bill conti")
+   
